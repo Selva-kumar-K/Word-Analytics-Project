@@ -1,0 +1,2 @@
+export const INSTAGRAM_CHARACTERS = 280
+export const FACEBOOK_CHARACTERS = 2200
